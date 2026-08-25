@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0232-implement-queue-using-stacks](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -64,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
