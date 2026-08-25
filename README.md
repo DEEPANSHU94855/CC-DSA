@@ -36,19 +36,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0219-contains-duplicate-ii](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0035-search-insert-position) |
+| [1004-max-consecutive-ones-iii](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0219-contains-duplicate-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
 |  |
 | ------- |
