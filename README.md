@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0152-maximum-product-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0219-contains-duplicate-ii) |
@@ -94,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0152-maximum-product-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
