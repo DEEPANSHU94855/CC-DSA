@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0219-contains-duplicate-ii) |
 ## Linked List
 |  |
@@ -19,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0202-happy-number) |
 ## Array
 |  |
 | ------- |
@@ -72,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0234-palindrome-linked-list) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
