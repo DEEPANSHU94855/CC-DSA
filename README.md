@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0152-maximum-product-subarray) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
