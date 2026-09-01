@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1920-build-array-from-permutation](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/1920-build-array-from-permutation) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0078-subsets) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
