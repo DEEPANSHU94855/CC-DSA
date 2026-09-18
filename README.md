@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0202-happy-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
