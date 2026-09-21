@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/1920-build-array-from-permutation) |
 ## Matrix
 |  |
@@ -150,5 +152,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
