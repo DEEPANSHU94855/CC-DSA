@@ -2,6 +2,9 @@ class Solution {
 public:
     vector<string> findRelativeRanks(vector<int>& score) {
 
+        // Method 2 -- usig priority queue having time complexity O(nlogn)and space 
+        // complexity O(n)
+
         int n=score.size();
         vector<string> ans(n);
         priority_queue<pair<int,int>> pq;
