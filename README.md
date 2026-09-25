@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0238-product-of-array-except-self) |
+| [0506-relative-ranks](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0506-relative-ranks) |
 | [1004-max-consecutive-ones-iii](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/1920-build-array-from-permutation) |
@@ -154,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Sorting
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0506-relative-ranks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
