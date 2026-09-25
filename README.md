@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0621-task-scheduler](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0621-task-scheduler) |
 ## Linked List
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0238-product-of-array-except-self) |
 | [0506-relative-ranks](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0621-task-scheduler) |
 | [1004-max-consecutive-ones-iii](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/1920-build-array-from-permutation) |
@@ -161,12 +163,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0621-task-scheduler) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0621-task-scheduler) |
 ## Prime Factorization
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/1492-the-kth-factor-of-n) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/DEEPANSHU94855/CC-DSA/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
